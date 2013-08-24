@@ -7,6 +7,7 @@ const EXT_TO_CONTENT_TYPE = const {
   ".mp4": "video/mp4",
   ".html": "text/html; charset=utf-8",  // Assumes UTF-8 files.
   ".png": "image/png",
+  ".svg": "image/svg+xml",
   ".css": "text/css",
   ".js": "text/javascript",
   ".webp": 'image/webp',
